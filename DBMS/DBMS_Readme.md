@@ -1,5 +1,7 @@
 # Database Management System
 * Here we will be dealing mostly with Relational Database (Table Based)
+* DBMS/SQL learning from Basics : Youtube channel : Gatesmashers
+* https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&ab_channel=GateSmashers
 
 
 
@@ -47,3 +49,5 @@
 ### Interview Based Learning Topics
 * Try to cover all topics in interview and practise only those which you don't understand
 * This is when you get for interview round
+* Link 1 (Edureka) : https://www.edureka.co/blog/interview-questions/sql-interview-questions
+* Link 2 (Interviewbit) : https://www.interviewbit.com/dbms-interview-questions/
