@@ -11,3 +11,4 @@ Interview Related Topics for Software Engineers
 * Remember Interview round is only to explain certain topics to interviewer, more better you understand the topic to interviewer, more is your chance to clear the round.
 * Managerial / HR / Basics Interview Questions link provided below
 * https://novoresume.com/career-blog/interview-questions-and-best-answers-guide
+* Link 2 (Top 64 Interview Questoins HR/Managerial) : chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ohsu.edu/sites/default/files/2019-04/How-to-Answer-the-64-Toughest-Interview-Questions.pdf
