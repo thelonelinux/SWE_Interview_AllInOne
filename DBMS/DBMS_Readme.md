@@ -42,6 +42,12 @@
 * SQL Server (Database) | Uses T-SQL | Owner is Microsoft
 * MySQL Server (Database) | User P-SQL | Owner is Oracle
 * and so on
+* SQL Queries Notes and more in Goalkicker.com
+* Here you can find notes for sql, slq server, mysql and oracle
+* link : https://goalkicker.com/
+* SQL Queries questions with practise
+* link : https://www.coursehero.com/file/79383034/SQL-leetcodepdf/
+* link : https://www.dsfaisal.com/articles/sql/leetcode-sql-problem-solving
 
 
 
