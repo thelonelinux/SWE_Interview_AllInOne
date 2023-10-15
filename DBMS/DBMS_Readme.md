@@ -1,4 +1,4 @@
-# Database Management System
+# Database Management System (SQL Learning is best only when you write queries on your own by building it)
 * Here we will be dealing mostly with Relational Database (Table Based)
 * DBMS/SQL learning from Basics : Youtube channel : Gatesmashers
 * https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&ab_channel=GateSmashers
